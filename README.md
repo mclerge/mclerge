@@ -10,3 +10,5 @@ Currently interning at Société Générale as a Trader Intern on the Delta One 
  Education :
 - **B.S.** – Classe Préparatoire, *Aux Lazaristes*  
 - **M.Eng.** – *Mines Paris – PSL* (Currently in gap year)
+
+There is my cool portfolio btw: [mclerge.vercel.app](https://mclerge.vercel.app/)
